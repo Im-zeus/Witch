@@ -27,7 +27,7 @@ from cinderella.modules.connection import connect_button
 
 
 PM_START_TEXT = """
-Hey there! My name is Rose - I'm here to help you manage your groups! Hit /help to find out more about how to use me to my full potential.
+Hey there! My name is JANVI - I'm here to help you manage your groups! Hit /help to find out more about how to use me to my full potential.
 
 Join my [support group](https://t.me/darkholdz) to get information on all the latest updates.
 """
